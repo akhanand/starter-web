@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Akhil Anand akhanand@deloitte.it  @akhan_
 
 # THANKS
 
