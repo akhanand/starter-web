@@ -20,4 +20,4 @@ Please for this repository and issue Pull requests for review.
 
 ### Copyright
 
-2020 Git.Akhanand
+2020 Git.Akhanand. All rights reserved.
